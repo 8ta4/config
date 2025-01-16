@@ -2,6 +2,20 @@
 
 ### Accuracy
 
+> Does air temperature affect sleep onset latency (SOL)?
+
+Oh yeah, definitely! This study showed SOL is significantly shorter when the room is at $26^{\circ}\text{C}$ compared to $23^{\circ}\text{C}$ or $30^{\circ}\text{C}$.
+
+Some folks might dismiss this as just p-hacking, but I've got a foolproof way to prove air temperature affects SOL. Just try sleeping at 26K. You'll rest in peace! 😉
+
+> Is the target temperature based on skin temperature measurements?
+
+Nope, it's not! Using skin temperature can be unreliable for a few reasons:
+
+- Movement: Skin temperature sensors can shift around while you're asleep, which messes with the readings.
+
+- Blanket: If you're wearing the sensor on your wrist, arm, or finger, it might sometimes be under the blanket and other times not. That can make the temperature readings jump around, depending on whether it's covered or exposed.
+
 > Is the target temperature based on the temperature reading from the AC unit?
 
 No. The target temperature isn't based on the temperature reading from the AC unit. The goal is to hit the target temperature the bedside sensor is reading, not the AC unit itself.
