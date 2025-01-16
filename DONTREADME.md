@@ -18,7 +18,7 @@ Nope, it's not! Using skin temperature can be unreliable for a few reasons:
 
 > Is the target temperature based on the temperature reading from the AC unit?
 
-No. The target temperature isn't based on the temperature reading from the AC unit. The goal is to hit the target temperature the bedside sensor is reading, not the AC unit itself.
+No. The target temperature isn't based on the temperature reading from the AC unit.
 
 The problem is, the temperature near the AC unit is usually higher than what you feel at the bedside. There's this thing called temperature stratification, where the air can be several degrees warmer near the ceiling than near the floor sometimes by as much as $5^{\circ}\text{C}$ (https://www.sciencedirect.com/science/article/abs/pii/S037877881100274X#:~:text=even%20for%20a%20relatively%20small%20height%20of%20the%20enclosure%2C%20a%20temperature%20difference%20of%20about%205%C2%A0%C2%B0C%20exists%20on%20the%20vertical%20direction).
 
