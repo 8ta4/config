@@ -2,11 +2,11 @@
 
 ### Accuracy
 
-> Once the room temperature stabilizes, what's the maximum temperature difference in $\pm1\,^{\circ}\text{C}$ I can expect from what I set?
+> Once the room temperature stabilizes, what's the maximum temperature difference in $\pm1^{\circ}\text{C}$ I can expect from what I set?
 
-The system tries to keep the temperature within $\pm1\,^{\circ}\text{C}$ of what you set it to.
+The system tries to keep the temperature within $\pm1^{\circ}\text{C}$ of what you set it to.
 
-If your AC has $1\,^{\circ}\text{C}$ temperature steps, there is a theoretical minimum error of $\pm0.5\,^{\circ}\text{C}$ when your ideal temperature falls between two steps. Plus, temperature sensors aren't perfect.
+If your AC has $1^{\circ}\text{C}$ temperature steps, there is a theoretical minimum error of $\pm0.5^{\circ}\text{C}$ when your ideal temperature falls between two steps. Plus, temperature sensors aren't perfect.
 
 ### Latency
 
