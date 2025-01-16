@@ -2,6 +2,18 @@
 
 ### Accuracy
 
+> Is the target temperature based on the temperature reading from the AC unit?
+
+No. The target temperature isn't based on the temperature reading from the AC unit. The goal is to hit the target temperature the bedside sensor is reading, not the AC unit itself.
+
+The problem is, the temperature near the AC unit is usually higher than what you feel at the bedside. There's this thing called temperature stratification, where the air can be several degrees warmer near the ceiling than near the floor sometimes by as much as $5^{\circ}\text{C}$.
+
+Subtracting a constant amount from the AC's reading might seem like a solution, but it's not that simple. The temperature difference depends on things like:
+
+- The temperature of the walls, floor, and ceiling
+
+- The settings of the heating or cooling system
+
 > Once the room temperature stabilizes, what's the maximum temperature difference in $\pm1^{\circ}\text{C}$ I can expect from what I set?
 
 The system tries to keep the temperature within $\pm1^{\circ}\text{C}$ of what you set it to.
