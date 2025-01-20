@@ -24,18 +24,18 @@
    - [Philips Hue A21 - E26 smart bulb(s) - 100 W](https://www.philips-hue.com/en-us/p/hue-white-and-color-ambiance-a21-e26-smart-bulb-100-w/046677562984)
    - Light socket(s) compatible with Philips A21 - E26 smart bulb(s) - 100 W
 
-2. Gather the hardware you'll only need for the initial setup:
+1. Gather the hardware you'll only need for the initial setup:
    - M.2 SSD housing
    - USB-C to USB-C cable
    - Ethernet cable
    - Mac for SSD setup and SSH access
    - iPhone for Broadlink app setup
 
-3. Install Home Assistant on Raspberry Pi 5 16GB using [the official guide](https://www.home-assistant.io/installation/raspberrypi), but skip the micro SD card and use your Raspberry Pi SSD with the Raspberry Pi M.2 HAT+ instead, connecting it to your Mac through the M.2 SSD housing and USB-C to USB-C cable
+1. Install Home Assistant on Raspberry Pi 5 16GB using [the official guide](https://www.home-assistant.io/installation/raspberrypi), but skip the micro SD card and use your Raspberry Pi SSD with the Raspberry Pi M.2 HAT+ instead, connecting it to your Mac through the M.2 SSD housing and USB-C to USB-C cable
 
-4. Follow [the Home Assistant onboarding guide](https://www.home-assistant.io/getting-started/onboarding)
+1. Follow [the Home Assistant onboarding guide](https://www.home-assistant.io/getting-started/onboarding)
 
-5. Hook up all your hardware:
+1. Hook up all your hardware:
    - Power up Raspberry Pi 5 16GB
    - Connect Raspberry Pi 5 16GB to ethernet
    - Plug Sonoff ZBDongle-E into Raspberry Pi 5 16GB
@@ -45,19 +45,19 @@
    - Place Philips Hue Tap Switch Mini Black within arm's reach from your sleeping position
    - Install Philips Hue A21 - E26 smart bulb(s) - 100 W in the socket(s)
 
-6. Connect the Broadlink RM4 Mini to your Wi-Fi network using the Broadlink app
+1. Connect the Broadlink RM4 Mini to your Wi-Fi network using the Broadlink app
 
-7. Enable SSH on your Home Assistant
+1. Enable SSH on your Home Assistant
 
-8. SSH into your Home Assistant
+1. SSH into your Home Assistant
 
-9. Go to the `/config` directory
+1. Go to the `/config` directory
 
-10. Add this repo as a remote
+1. Add this repo as a remote
 
-11. Pull the latest commit
+1. Pull the latest commit
 
-12. Learn AC IR commands for all temperature settings in auto mode with heating and auto mode with cooling
+1. Learn AC IR commands for all temperature settings in auto mode with heating and auto mode with cooling
 
-13. Configure time ranges and their corresponding target temperatures
+1. Configure time ranges and their corresponding target temperatures
 
