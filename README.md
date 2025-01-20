@@ -18,7 +18,7 @@
    - [Broadlink RM4 Mini](https://www.broadlink.ae/product-page/broadlink-rm4-mini)
    - [Raspberry Pi Case for Raspberry Pi 5](https://www.raspberrypi.com/products/raspberry-pi-5-case)
    - USB-A power adapter for Broadlink RM4 Mini with plug for your region
-   - AC unit that is controllable via infrared IR
+   - AC unit that is controllable via infrared
    - [Sonoff ZBDongle-E](https://sonoff.tech/product/gateway-and-sensors/sonoff-zigbee-3-0-usb-dongle-plus-e)
    - [Sonoff SNZB-02P](https://sonoff.tech/product/gateway-and-sensors/snzb-02p)
    - [Philips Hue Tap Switch Mini Black](https://www.philips-hue.com/en-us/p/accessory-hue-tap-switch-mini-black/46677581954)
