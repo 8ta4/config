@@ -11,17 +11,17 @@
 > How do I set up `config`?
 
 1. Gather the hardware you'll need to keep running:
-   - Raspberry Pi 5 16GB
-   - Raspberry Pi 27W USB-C Power Supply with plug for your region
-   - Raspberry Pi SSD
-   - Raspberry Pi M.2 HAT+
-   - Broadlink RM4 Mini
+   - [Raspberry Pi 5 16GB](https://www.raspberrypi.com/products/raspberry-pi-5)
+   - [Raspberry Pi 27W USB-C Power Supply](https://www.raspberrypi.com/products/27w-power-supply) with plug for your region
+   - [Raspberry Pi SSD](https://www.raspberrypi.com/products/ssd)
+   - [Raspberry Pi M.2 HAT+](https://www.raspberrypi.com/products/m2-hat-plus)
+   - [Broadlink RM4 Mini](https://www.broadlink.ae/product-page/broadlink-rm4-mini)
    - USB-A power adapter for Broadlink RM4 Mini with plug for your region
    - AC unit that is controllable via infrared IR
-   - Sonoff ZBDongle-E
-   - Sonoff SNZB-02P
-   - Philips Hue Tap Switch Mini
-   - Philips A21 - E26 smart bulb(s) - 100 W
+   - [Sonoff ZBDongle-E](https://sonoff.tech/product/gateway-and-sensors/sonoff-zigbee-3-0-usb-dongle-plus-e)
+   - [Sonoff SNZB-02P](https://sonoff.tech/product/gateway-and-sensors/snzb-02p)
+   - [Philips Hue Tap Switch Mini Black](https://www.philips-hue.com/en-us/p/accessory-hue-tap-switch-mini-black/46677581954)
+   - [Philips Hue A21 - E26 smart bulb(s) - 100 W](https://www.philips-hue.com/en-us/p/hue-white-and-color-ambiance-a21-e26-smart-bulb-100-w/046677562984)
    - Light socket(s) compatible with Philips A21 - E26 smart bulb(s) - 100 W
 
 2. Gather the hardware you'll only need for the initial setup:
@@ -31,9 +31,9 @@
    - Mac for SSD setup and SSH access
    - iPhone for Broadlink app setup
 
-3. Install Home Assistant on Raspberry Pi 5 16GB using the official guide, but skip the micro SD card and use your Raspberry Pi SSD with the Raspberry Pi M.2 HAT+ instead, connecting it to your Mac through the M.2 SSD housing and USB-C to USB-C cable
+3. Install Home Assistant on Raspberry Pi 5 16GB using [the official guide](https://www.home-assistant.io/installation/raspberrypi), but skip the micro SD card and use your Raspberry Pi SSD with the Raspberry Pi M.2 HAT+ instead, connecting it to your Mac through the M.2 SSD housing and USB-C to USB-C cable
 
-4. Follow the Home Assistant onboarding guide
+4. Follow [the Home Assistant onboarding guide](https://www.home-assistant.io/getting-started/onboarding)
 
 5. Hook up all your hardware:
    - Power up Raspberry Pi 5 16GB
@@ -42,8 +42,8 @@
    - Place Broadlink RM4 Mini where it has direct line of sight to the AC unit
    - Power up Broadlink RM4 Mini
    - Place Sonoff SNZB-02P at the height where you sleep, near your bed
-   - Place Philips Hue Tap Switch Mini within arm's reach from your sleeping position
-   - Install Philips A21 - E26 smart bulb(s) - 100 W in the socket(s)
+   - Place Philips Hue Tap Switch Mini Black within arm's reach from your sleeping position
+   - Install Philips Hue A21 - E26 smart bulb(s) - 100 W in the socket(s)
 
 6. Connect the Broadlink RM4 Mini to your Wi-Fi network using the Broadlink app
 
