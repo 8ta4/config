@@ -37,14 +37,14 @@
 1. Follow [the Home Assistant onboarding guide](https://www.home-assistant.io/getting-started/onboarding)
 
 1. Hook up all your hardware:
-   - Power up Raspberry Pi 5 16GB
-   - Connect Raspberry Pi 5 16GB to ethernet
-   - Plug Sonoff ZBDongle-E into Raspberry Pi 5 16GB
-   - Place Broadlink RM4 Mini where it has direct line of sight to the AC unit
-   - Power up Broadlink RM4 Mini
-   - Place Sonoff SNZB-02P at the height where you sleep, near your bed
-   - Place Philips Hue Tap Switch Mini Black within arm's reach from your sleeping position
-   - Install Philips Hue A21 - E26 smart bulb(s) - 100 W in the socket(s)
+   1. Power up Raspberry Pi 5 16GB
+   1. Connect Raspberry Pi 5 16GB to ethernet
+   1. Plug Sonoff ZBDongle-E into Raspberry Pi 5 16GB
+   1. Place Broadlink RM4 Mini where it has direct line of sight to the AC unit
+   1. Power up Broadlink RM4 Mini
+   1. Place Sonoff SNZB-02P at the height where you sleep, near your bed
+   1. Place Philips Hue Tap Switch Mini Black within arm's reach from your sleeping position
+   1. Install Philips Hue A21 - E26 smart bulb(s) - 100 W in the socket(s)
 
 1. Connect the Broadlink RM4 Mini to your Wi-Fi network using the Broadlink app
 
