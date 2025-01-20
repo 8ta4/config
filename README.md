@@ -51,6 +51,8 @@
 
 1. Unplug the ethernet cable from your Raspberry Pi 5 16GB
 
+1. Install the Broadlink app on your iPhone
+
 1. Connect the Broadlink RM4 Mini to your Wi-Fi network using the Broadlink app
 
 1. Enable SSH on your Home Assistant
