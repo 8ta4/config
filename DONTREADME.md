@@ -2,6 +2,12 @@
 
 ### Accuracy
 
+> Does `config` use Predicted Mean Vote (PMV)?
+
+Nope, it doesn’t. PMV is meant for people who are awake.
+
+You could tweak PMV for sleep scenarios, but honestly, making those adjustments would be pretty tricky to get right.
+
 > Does air temperature affect sleep onset latency (SOL)?
 
 Oh yeah, definitely! This study showed SOL is significantly shorter when the room is at $26^{\circ}\text{C}$ compared to $23^{\circ}\text{C}$ or $30^{\circ}\text{C}$ (https://www.sciencedirect.com/science/article/abs/pii/S0360132313003442#:~:text=The%20duration%20of%20sleep%20onset%20latency%20(SOL)%20was%20longer%2C%20the%20duration%20of%20slow%20wave%20sleep%20(SWS)%20was%20lower%2C%20and%20the%20subjective%20sleep%20quality%20was%20lower%20at%2023%C2%A0%C2%B0C%20or%2030%C2%A0%C2%B0C%20compared%20with%2026%C2%A0%C2%B0C.).
