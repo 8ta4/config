@@ -32,9 +32,7 @@
    - Mac for SSD setup and SSH access
    - iPhone for Broadlink app setup
 
-1. Install Home Assistant on Raspberry Pi 5 16GB using [the official guide](https://www.home-assistant.io/installation/raspberrypi), but skip the micro SD card and use your Raspberry Pi SSD with the Raspberry Pi M.2 HAT+ instead, connecting it to your Mac through the M.2 SSD housing and USB-C to USB-C cable
-
-1. Hook up all your hardware:
+1. Hook up your hardware:
    1. Pop your Raspberry Pi 5 16GB into Raspberry Pi Case for Raspberry Pi 5
    1. Power up Raspberry Pi 5 16GB
    1. Connect Raspberry Pi 5 16GB to ethernet
@@ -44,6 +42,8 @@
    1. Place Sonoff SNZB-02P at the height where you sleep, near your bed
    1. Place Philips Hue Tap Switch Mini Black within arm's reach from your sleeping position
    1. Install Philips Hue A21 - E26 smart bulb(s) - 100 W in the socket(s)
+
+1. Install Home Assistant on Raspberry Pi 5 16GB using [the official guide](https://www.home-assistant.io/installation/raspberrypi), but skip the micro SD card and use your Raspberry Pi SSD with the Raspberry Pi M.2 HAT+ instead, connecting it to your Mac through the M.2 SSD housing and USB-C to USB-C cable
 
 1. Follow [the Home Assistant onboarding guide](https://www.home-assistant.io/getting-started/onboarding)
 
