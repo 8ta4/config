@@ -47,6 +47,10 @@
 
 1. Follow [the Home Assistant onboarding guide](https://www.home-assistant.io/getting-started/onboarding)
 
+1. Punch in your Wi-Fi credentials into Home Assistant
+
+1. Unplug the ethernet cable from your Raspberry Pi 5 16GB
+
 1. Connect the Broadlink RM4 Mini to your Wi-Fi network using the Broadlink app
 
 1. Enable SSH on your Home Assistant
